@@ -1,3 +1,4 @@
+#этот код рабочий и его надо проверять
 import asyncio
 import sqlite3
 import random
